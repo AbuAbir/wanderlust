@@ -1,4 +1,4 @@
-Using fetch, async, and await, you’ll request information from the Foursquare API and OpenWeather API to create a travel website.
+Using fetch, async, and await, you’ll request information from the Foursquare API (https://developer.foursquare.com) and OpenWeather API (https://openweathermap.org/current) to create a travel website.
 
 Before you begin, you’ll need to register for developer accounts for both of the APIs above. They’re both free.
 
